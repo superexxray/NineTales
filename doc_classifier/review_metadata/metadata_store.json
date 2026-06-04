@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "b78f05e7-30ea-4548-a51a-d6a08afee4b3",
+    "filename": "statement1(lam).pdf",
+    "model_prediction": "ALM",
+    "confidence": 0.3181,
+    "final_category": "ALM",
+    "status": "approved",
+    "stored_filepath": "uploaded_docs\\8da9a9a1-b086-4bc1-9074-2d0a69ab3dea.pdf"
+  },
+  {
+    "document_id": "659cf16e-6ce6-4f5d-a84a-8910cde2add6",
+    "filename": "statement2(shp).pdf",
+    "model_prediction": "Shareholding Pattern",
+    "confidence": 0.5792,
+    "final_category": "Shareholding Pattern",
+    "status": "approved",
+    "stored_filepath": "uploaded_docs\\f1ac9695-9cf7-4a47-9caf-e51f502a46ce.pdf"
+  },
+  {
+    "document_id": "33398f54-56f7-48fd-8072-01972e6c7754",
+    "filename": "statement3(bprfl).pdf",
+    "model_prediction": "Borrowing Profile",
+    "confidence": 0.4571,
+    "final_category": "Borrowing Profile",
+    "status": "approved",
+    "stored_filepath": "uploaded_docs\\fbfefe08-1044-4773-8ecf-ac4ddef7e084.pdf"
+  },
+  {
+    "document_id": "178790a0-531e-4d65-b752-13f6f2dc2d04",
+    "filename": "statement4(anfsm).pdf",
+    "model_prediction": "Annual Report",
+    "confidence": 0.3273,
+    "final_category": "Annual Report",
+    "status": "extraction_complete",
+    "stored_filepath": "uploaded_docs\\62628fc9-d17a-49e0-8b7f-941ba55571f9.pdf"
+  },
+  {
+    "document_id": "6b345c4b-dacd-4842-8e35-d7e654134e0f",
+    "filename": "statement5(pf).pdf",
+    "model_prediction": "Portfolio Performance",
+    "confidence": 0.289,
+    "final_category": "Portfolio Performance",
+    "status": "approved",
+    "stored_filepath": "uploaded_docs\\36afe517-6a91-4bd1-b1ec-566b3089ddff.pdf"
+  }
+]

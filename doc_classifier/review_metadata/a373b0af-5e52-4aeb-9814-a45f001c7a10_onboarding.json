@@ -1,0 +1,16 @@
+{
+  "companyName": "SiliconCore Semiconductor Pvt. Ltd.",
+  "cin": "U72900KA2019PTC134521",
+  "pan": "AASCS4821F",
+  "sector": "Semiconductor Manufacturing",
+  "subsector": "Integrated Circuit Design and Fabrication",
+  "annualTurnover": 14200000000.0,
+  "netProfit": 1120000000.0,
+  "totalDebt": 5900000000.0,
+  "ebitda": 2400000000.0,
+  "loanType": "Term Loan",
+  "loanAmount": 4500000000.0,
+  "loanTenure": 60,
+  "expectedInterestRate": 10.2,
+  "entity_id": "a373b0af-5e52-4aeb-9814-a45f001c7a10"
+}
